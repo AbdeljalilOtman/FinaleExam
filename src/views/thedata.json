@@ -1,0 +1,103 @@
+{
+  "jobs": [
+    {
+      "title": "Product Manager",
+      "salary": 110000,
+      "date_of_creation": "2024-04-22",
+      "description": "Develop and manage product roadmaps, ensuring product success.",
+      "degree_required": "Business ",
+      "experience_required": 5,
+      "id": "1"
+    },
+    {
+      "title": "Sales Representative",
+      "salary": 75000,
+      "date_of_creation": "2024-04-21",
+      "description": "Sell products or services to meet sales targets.",
+      "degree_required": "Business Administration",
+      "experience_required": "10",
+      "id": "2"
+    },
+    {
+      "title": "Web Developer",
+      "salary": 80000,
+      "date_of_creation": "2024-04-20",
+      "description": "Develop and maintain websites and web applications.",
+      "degree_required": "Computer Science",
+      "experience_required": 3,
+      "id": "3"
+    },
+    {
+      "title": "Project Manager",
+      "salary": 95000,
+      "date_of_creation": "2024-04-19",
+      "description": "Plan, manage, and execute projects to ensure successful completion.",
+      "degree_required": "Business Administration",
+      "experience_required": 4,
+      "id": "4"
+    },
+    {
+      "title": "Customer Service Representative",
+      "salary": 50000,
+      "date_of_creation": "2024-04-22",
+      "description": "Provide customer support and resolve customer inquiries.",
+      "degree_required": "High School Diploma",
+      "experience_required": 1,
+      "id": "6"
+    },
+    {
+      "title": "Software Tester",
+      "salary": 65000,
+      "date_of_creation": "2024-04-21",
+      "description": "Test software applications to identify and report bugs.",
+      "degree_required": "Computer Science",
+      "experience_required": 1,
+      "id": "7"
+    },
+    {
+      "title": "Content Writer",
+      "salary": 60000,
+      "date_of_creation": "2024-04-20",
+      "description": "Create engaging and informative content for websites, blogs, and other media.",
+      "degree_required": "English, Journalism",
+      "experience_required": 3,
+      "id": "8"
+    },
+    {
+      "title": "Network Administrator",
+      "salary": 85000,
+      "date_of_creation": "2024-04-19",
+      "description": "Install, maintain, and configure computer networks.",
+      "degree_required": "Computer Science",
+      "experience_required": 4,
+      "id": "9"
+    },
+    {
+      "title": "Business Analyst",
+      "salary": 90000,
+      "date_of_creation": "2024-04-18",
+      "description": "Analyze business needs and develop solutions to improve efficiency.",
+      "degree_required": "Business Administration",
+      "experience_required": 3,
+      "id": "10"
+    },
+    {
+      "title": "Human Resources Manager",
+      "salary": 100000,
+      "date_of_creation": "2024-04-22",
+      "description": "Lead the human resources department and oversee all HR functions.",
+      "degree_required": "Human Resources Management",
+      "experience_required": 7,
+      "id": "11"
+    },
+    {
+      "id": "3268",
+      "title": "scientist",
+      "salary": "100000",
+      "date_of_creation": "2021-02-02",
+      "description": "slkfjis;dfjs;odif",
+      "degree_required": "physics",
+      "experience_required": "10"
+    }
+  ]
+}
